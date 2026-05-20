@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+    <name>YMBTCG</name>
+    <longname>Yo Mama Balls: the Trading Card Game</longname>
+	<settype>Custom</settype>
+	</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Six Seven</name>
+			<set rarity="rare" picURL="https://i.imgur.com/ArlhOrv.png">YMBTCG</set>
+			<tablerow>2</tablerow>
+			<text>Six Seven enters tapped unless you pay 7 to cast it.
+6: Six Seven cannot be removed from the board and health cannot go past 1 until next Start.
+7: Six Seven gives all Livings "T: Deal 7 combat damage."</text>
+				<prop>
+					<cmc>6/7</cmc>
+					<type>Living</type>
+					<maintype>Living</maintype>
+					<pt>6/7</pt>
+				</prop>
+		</card>
+		<card>
+			<name>Slop</name>
+			<set rarity="Common" picURL="https://i.imgur.com/Lk8fqZw.png">YMBTCG</set>
+			<tablerow>2</tablerow>
+			<text>T,: Deal 3 combat damage
+Whenever an opponent Living is killed and Slop is on the board, that card turns face down and becomes a Slop Token that says “Take 1 damage during your start.”</text>
+				<prop>
+					<cmc>4</cmc>
+					<type>Living</type>
+					<maintype>Living</maintype>
+					<pt>4/4</pt>
+				</prop>
+		</card>
+		<card>
+			<name>Rage Bait</name>
+			<set rarity="Common" picURL="https://i.imgur.com/1opmmJK.png">YMBTCG</set>
+			<tablerow>3</tablerow>
+			<text>When an opponent plays a spell, you may play this card to Interrupt played spell by sending it to the discard. If the effects of the opposing spell have already transpired, this card does nothing.</text>
+				<prop>
+					<cmc>4</cmc>
+					<type>Spell</type>
+					<maintype>Spell</maintype>
+				</prop>
+		</card>
+		<card>
+			<name>YAOI BLAST</name>
+			<set rarity="Common" picURL="https://i.imgur.com/37NrjlD.png">YMBTCG</set>
+			<tablerow>3</tablerow>
+			<text>Destroy any Living or Object.
+When cast, you may pay 4 more to destroy all Livings or Objects.</text>
+				<prop>
+					<cmc>4</cmc>
+					<type>Spell</type>
+					<maintype>Spell</maintype>
+				</prop>
+		</card>
+		<card>
+			<name>RDM</name>
+			<set rarity="Common" picURL="https://i.imgur.com/fPj220i.png">YMBTCG</set>
+			<tablerow>3</tablerow>
+			<text>Untap all Livings. All opponent Livings with the ability to deal damage must tap to fight a Living you don't control.</text>
+				<prop>
+					<cmc>6</cmc>
+					<type>Spell</type>
+					<maintype>Spell</maintype>
+				</prop>
+		</card>
+		<card>
+			<name>Communist Overtaking</name>
+			<set rarity="Common" picURL="https://i.imgur.com/V5iKpBM.png">YMBTCG</set>
+			<tablerow>3</tablerow>
+			<text>Each player puts all of their coins into a shared pool. Then, starting with the player who had the fewest coins (if there is a tie, player who cast spell decides order), each player takes X coins from the pool in counter clockwise order until the pool is empty or every player has X coins. Any remaining coins goes back to their respective players. Any player may pay X+7 to negate this card all together.</text>
+				<prop>
+					<cmc>X</cmc>
+					<type>Spell</type>
+					<maintype>Spell</maintype>
+				</prop>
+		</card>
+		<card>
+			<name>Make a Move</name>
+			<set rarity="Common" picURL="https://i.imgur.com/tjd9szm.png">YMBTCG</set>
+			<tablerow>3</tablerow>
+			<text>Pull any number of cards out of your Discard back into your hand. All opponents draw 1 card.</text>
+				<prop>
+					<cmc>2</cmc>
+					<type>Spell</type>
+					<maintype>Spell</maintype>
+				</prop>
+		</card>
+		<card>
+			<name>Sir Goons'alot</name>
+			<set rarity="Uncommon" picURL="https://i.imgur.com/ZOFEDDX.png">YMBTCG</set>
+			<tablerow>2</tablerow>
+			<text>T,: Destroy any Living. It returns to the owner's battlefield during the next End.</text>
+				<prop>
+					<cmc>4</cmc>
+					<type>Object</type>
+					<maintype>Object</maintype>
+				</prop>
+		</card>
+		<card>
+			<name>Gnome</name>
+			<set rarity="Common" picURL="https://i.imgur.com/w7KFmk6.png">YMBTCG</set>
+			<tablerow>2</tablerow>
+			<text>T,: Deal 1 damage.</text>
+				<prop>
+					<cmc>1</cmc>
+					<type>Living</type>
+					<maintype>Living</maintype>
+					<pt>2/1</pt>
+				</prop>
+		</card>
+		<card>
+			<name>Faust, Tiefling Rogue</name>
+			<set rarity="Rare" picURL="https://i.imgur.com/yQIoKzV.png">YMBTCG</set>
+			<tablerow>2</tablerow>
+			<text>Dagger Toss - T,: Deal 3 damage to any Living. If Faust kills a Living, draw 1 card.</text>
+				<prop>
+					<cmc>3</cmc>
+					<type>Living</type>
+					<maintype>Living</maintype>
+					<pt>2/3</pt>
+				</prop>
+		</card>
+		<card>
+			<name>Suken, Sun Monk</name>
+			<set rarity="Rare" picURL="https://i.imgur.com/hOit9BW.png">YMBTCG</set>
+			<tablerow>2</tablerow>
+			<text>Fury of Blows - T,: Deal 4 combat damage to any two Livings. If there are no livings on target players board, deal damage directly to Player.</text>
+				<prop>
+					<cmc>5</cmc>
+					<type>Living</type>
+					<maintype>Living</maintype>
+					<pt>3/3</pt>
+				</prop>
+		</card>
+		<card>
+			<name>Alixei, Fiend Warlock</name>
+			<set rarity="Rare" picURL="https://i.imgur.com/gtVu3a0.png">YMBTCG</set>
+			<tablerow>2</tablerow>
+			<text>T: Deal 2 damage
+Thunderclap - X, T: Deal X damage to all Living. If you or opponent have no living on the field, destroy any Object on each opponents field.</text>
+				<prop>
+					<cmc>6</cmc>
+					<type>Living</type>
+					<maintype>Living</maintype>
+					<pt>3/4</pt>
+				</prop>
+		</card>
+		<card>
+			<name>Tao Ming's Guidance</name>
+			<set rarity="Uncommon" picURL="https://i.imgur.com/wftJO1e.png">YMBTCG</set>
+			<tablerow>2</tablerow>
+			<text>T,: Any attack made at target creature can be redirected to any Living. Sacrifice Tao Ming's Guidance.</text>
+				<prop>
+					<cmc>4</cmc>
+					<type>Object</type>
+					<maintype>Object</maintype>
+				</prop>
+		</card>
+		<card>
+			<name>Goblin Glemmy</name>
+			<set rarity="Uncommon" picURL="https://i.imgur.com/VPzGOHE.png">YMBTCG</set>
+			<tablerow>3</tablerow>
+			<text>Deal X damage to any living. If you kill that living, gain Gold based on its power level.</text>
+				<prop>
+					<cmc>X</cmc>
+					<type>Spell</type>
+					<maintype>Spell</maintype>
+				</prop>
+		</card>
+		<card>
+			<name>Gromp Warrior</name>
+			<set rarity="Common" picURL="https://i.imgur.com/uXFlGWn.png">YMBTCG</set>
+			<tablerow>2</tablerow>
+			<related attach="transform">Gromp Warrior Back</related>
+			<side>front</side>
+			<text>During your Start phase, place a Gromp counter on Gromp Warrior. When Gromp Warrior has 2 gromp counters, flip this card.</text>
+				<prop>
+					<layout>normal</layout>
+					<cmc>0</cmc>
+					<type>Object</type>
+					<maintype>Object</maintype>
+				</prop>
+		</card>
+		<card>
+			<name>Gromp Warrior Back</name>
+			<set rarity="Common" picURL="https://i.imgur.com/kKw2eqr.png">YMBTCG</set>
+			<tablerow>2</tablerow>
+			<related attach="transform">Gromp Warrior</related>
+			<side>back</side>
+			<text></text>
+				<prop>
+					<layout>transform</layout>
+					<cmc>0</cmc>
+					<type>Living</type>
+					<maintype>Living</maintype>
+					<pt>1/6</pt>
+				</prop>
+		</card>
+		<card>
+			<name>Infinite Money Machine</name>
+			<set rarity="Common" picURL="https://i.imgur.com/Gn2puer.png">YMBTCG</set>
+			<tablerow>2</tablerow>
+			<text>This card creates an additional 3 gold during your Start phase. If you control 0 living, Infinite Money Machine gets sent to the Discard.</text>
+				<prop>
+					<cmc>4</cmc>
+					<type>Object</type>
+					<maintype>Object</maintype>
+				</prop>
+		</card>
+		<card>
+			<name>Job Application</name>
+			<set rarity="Common" picURL="https://i.imgur.com/VXA99IK.png">YMBTCG</set>
+			<tablerow>2</tablerow>
+			<text>T: Flip a coin. On heads, gain 3 coin. On tails, gain 1 coin.</text>
+				<prop>
+					<cmc>2</cmc>
+					<type>Object</type>
+					<maintype>Object</maintype>
+				</prop>
+		</card>
+		<card>
+			<name>TAUNTED!!</name>
+			<set rarity="Uncommon" picURL="https://i.imgur.com/U8Z6BgQ.png">YMBTCG</set>
+			<tablerow>3</tablerow>
+			<text>Any Object becomes a 1 health Living with 3 power level until the end of the turn.</text>
+				<prop>
+					<cmc>2</cmc>
+					<type>Spell</type>
+					<maintype>Spell</maintype>
+				</prop>
+		</card>
+		<card>
+			<name>VC Night</name>
+			<set rarity="Common" picURL="https://i.imgur.com/J1dumuw.png">YMBTCG</set>
+			<tablerow>2</tablerow>
+			<text>Attach this to a Living when played.
+Partner - X: You may attach this to an additional Living on the board, where X is the Play Cost of that creature. All creatures attached to VC Night share a combined life total. When the life total is 0 or VC Night is destroyed, all attached Livings and VC Night go to Discard.</text>
+				<prop>
+					<cmc>6</cmc>
+					<type>Object</type>
+					<maintype>Object</maintype>
+				</prop>
+		</card>
+		<card>
+			<name>Cookie Jar</name>
+			<set rarity="Common" picURL="https://i.imgur.com/Tvdamto.png">YMBTCG</set>
+			<tablerow>3</tablerow>
+			<text>Destroy a Living, then draw cards based on the health of that Living.</text>
+				<prop>
+					<cmc>3</cmc>
+					<type>Spell</type>
+					<maintype>Spell</maintype>
+				</prop>
+		</card>
+		<card>
+			<name>Security Guard's Shift</name>
+			<set rarity="Common" picURL="https://i.imgur.com/ySmkyDk.png">YMBTCG</set>
+			<tablerow>2</tablerow>
+			<text>Overtime - T,: Gain 2 coins.</text>
+				<prop>
+					<cmc>3</cmc>
+					<type>Object</type>
+					<maintype>Object</maintype>
+				</prop>
+		</card>
+		<card>
+			<name>Urmomerbal</name>
+			<set rarity="Common" picURL="https://i.imgur.com/YdfoQLl.png">YMBTCG</set>
+			<tablerow>2</tablerow>
+			<text>T,: Look at top 3 cards of deck. Return them in any order.</text>
+				<prop>
+					<cmc>4</cmc>
+					<type>Object</type>
+					<maintype>Object</maintype>
+				</prop>
+		</card>
+		<card>
+			<name>Group’s Personal Scribe</name>
+			<set rarity="Common" picURL="https://i.imgur.com/I9CrSZF.png">YMBTCG</set>
+			<tablerow>2</tablerow>
+			<text>Whenever opponent plays object or spell, that player may pay 2 coins or puts the top 2 cards of their deck to the Discard. If their library is empty after this effect triggers, gain 6 coins.</text>
+				<prop>
+					<cmc>6</cmc>
+					<type>Object</type>
+					<maintype>Object</maintype>
+				</prop>
+		</card>
+		<card>
+			<name>Power Scaling</name>
+			<set rarity="Common" picURL="https://i.imgur.com/jmRSy4h.png">YMBTCG</set>
+			<tablerow>2</tablerow>
+			<text>T,: Gain 4 coins if you control the highest power Living.</text>
+				<prop>
+					<cmc>1</cmc>
+					<type>Object</type>
+					<maintype>Object</maintype>
+				</prop>
+		</card>
+		<card>
+			<name>Kin Assignment</name>
+			<set rarity="Common" picURL="https://i.imgur.com/em9blaO.png">YMBTCG</set>
+			<tablerow>2</tablerow>
+			<text>Kin Assignment becomes copy of any permanent until end of turn.</text>
+				<prop>
+					<cmc>4</cmc>
+					<type>Object</type>
+					<maintype>Object</maintype>
+				</prop>
+		</card>
+		<card>
+			<name>BIG ASS DINOSAUR</name>
+			<set rarity="Rare" picURL="https://i.imgur.com/R8xnYRk.png">YMBTCG</set>
+			<tablerow>2</tablerow>
+			<text>Snack Time - T,: Deals 5 damage. If BIG ASS DINOSAUR kills a Living, untap all cards you control.</text>
+				<prop>
+					<cmc>12</cmc>
+					<type>Living</type>
+					<maintype>Living</maintype>
+					<pt>8/5</pt>
+				</prop>
+		</card>
+		<card>
+			<name>Yahni’s Stream</name>
+			<set rarity="Uncommon" picURL="https://i.imgur.com/yyigTbg.png">YMBTCG</set>
+			<tablerow>3</tablerow>
+			<text>Search your Library or Discard for a card and put that card into your hand. Shuffle your library.</text>
+				<prop>
+					<cmc>4</cmc>
+					<type>Spell</type>
+					<maintype>Spell</maintype>
+				</prop>
+		</card>
+		<card>
+			<name>Dante, Crooked Vigilante</name>
+			<set rarity="Rare" picURL="https://i.imgur.com/wpAHJbt.png">YMBTCG</set>
+			<tablerow>2</tablerow>
+			<text>T: Deal 3 damage.
+Pay 1 Life, T: Deal 6 damage.
+Pay 2 Life, T: Deal 3 damage to all living an opponent controls.</text>
+				<prop>
+					<cmc>5</cmc>
+					<type>Living</type>
+					<maintype>Living</maintype>
+					<pt>4/4</pt>
+				</prop>
+		</card>
+		<card>
+			<name>Mighty, the Destined Hero</name>
+			<set rarity="Rare" picURL="https://i.imgur.com/KQDm6dE.png">YMBTCG</set>
+			<tablerow>2</tablerow>
+			<text>Bardic Inspiration - T,: Deal 3 damage. If Mighty killed a Living this turn with Bardic Inspiration, all Livings in your discard gains "2: Return this Living to the battlefield" until you untap Mighty.</text>
+				<prop>
+					<cmc>8</cmc>
+					<type>Living</type>
+					<maintype>Living</maintype>
+					<pt>3/4</pt>
+				</prop>
+		</card>
+		<card>
+			<name>Vigorous, Cape of Hope</name>
+			<set rarity="Rare" picURL="https://i.imgur.com/CnRfFt4.png">YMBTCG</set>
+			<tablerow>2</tablerow>
+			<text>T,: Deal 4 damage.
+When Vigorous, Cape of Hope enters the battlefield, destroy two Objects.</text>
+				<prop>
+					<cmc>5</cmc>
+					<type>Living</type>
+					<maintype>Living</maintype>
+					<pt>5/4</pt>
+				</prop>
+		</card>
+		<card>
+			<name>COMMAND GRAB</name>
+			<set rarity="Common" picURL="https://i.imgur.com/XnDeJ9r.png">YMBTCG</set>
+			<tablerow>3</tablerow>
+			<text>Destroy any Living.</text>
+				<prop>
+					<cmc>5</cmc>
+					<type>Spell</type>
+					<maintype>Spell</maintype>
+				</prop>
+		</card>
+		<card>
+			<name>GRUNGLE</name>
+			<set rarity="Rare" picURL="https://i.imgur.com/jtIVHWa.png">YMBTCG</set>
+			<tablerow>2</tablerow>
+			<text>When GRUNGLE enters the battlefield, choose between Object or Living to your opponents. Put cards from the top of your library into your Discard until you find an Object or Living (decided by your pick). Deal damage to a player equal to the amount of cards sent to your Discard this way.
+T,: Deal 5 damage.</text>
+				<prop>
+					<cmc>8</cmc>
+					<type>Living</type>
+					<maintype>Living</maintype>
+					<pt>5/5</pt>
+				</prop>
+		</card>
+		<card>
+			<name>BRAINROT</name>
+			<set rarity="Common" picURL="https://i.imgur.com/UYlt0W9.png">YMBTCG</set>
+			<tablerow>2</tablerow>
+			<text>Any time an opponent discards a card, gain 3 coins for each card discarded.</text>
+				<prop>
+					<cmc>5</cmc>
+					<type>Object</type>
+					<maintype>Object</maintype>
+				</prop>
+		</card>
+		<card>
+			<name>Grungle Mox</name>
+			<set rarity="Common" picURL="https://i.imgur.com/FUq8T4C.png">YMBTCG</set>
+			<tablerow>2</tablerow>
+			<text>Each player draws an additional card during their draw step when this card is on the field. Sacrifice this object at the end of your next turn.</text>
+				<prop>
+					<cmc>0</cmc>
+					<type>Object</type>
+					<maintype>Object</maintype>
+				</prop>
+		</card>
+		<card>
+			<name>AI Generated Spell</name>
+			<set rarity="Common" picURL="https://i.imgur.com/gKMqhbN.png">YMBTCG</set>
+			<tablerow>3</tablerow>
+			<text>When an opponent plays a card, you may play this card to Interrupt played card by sending it to the discard. Gain chips based on the play cost of the card you countered.</text>
+				<prop>
+					<cmc>3</cmc>
+					<type>Spell</type>
+					<maintype>Spell</maintype>
+				</prop>
+		</card>
+		<card>
+			<name>5 mg weed gummy from gas station</name>
+			<set rarity="Common" picURL="https://i.imgur.com/os5WZIX.png">YMBTCG</set>
+			<tablerow>2</tablerow>
+			<text>T,: Discard any number of cards, and draw that many cards.</text>
+				<prop>
+					<cmc>7</cmc>
+					<type>Object</type>
+					<maintype>Object</maintype>
+				</prop>
+		</card>
+		<card>
+			<name>Chud</name>
+			<set rarity="Common" picURL="https://i.imgur.com/L3NVaS2.png">YMBTCG</set>
+			<tablerow>2</tablerow>
+			<side>front</side>
+			<related attach="transform">Chad</related>
+			<text>T,: Deal 1 damage.
+If this Living remains on the field after an opponent deals damage with a Living, flip this card.</text>
+				<prop>
+					<layout>normal</layout>
+					<cmc>1</cmc>
+					<type>Living</type>
+					<maintype>Living</maintype>
+					<pt>1/1</pt>
+				</prop>
+		</card>
+		<card>
+			<name>Chad</name>
+			<set rarity="Common" picURL="https://i.imgur.com/jjZxJyM.png">YMBTCG</set>
+			<tablerow>2</tablerow>
+			<related attach="transform">Chud</related>
+			<side>back</side>
+			<text>T,: Deal 5 damage.</text>
+				<prop>
+					<layout>transform</layout>
+					<cmc>0</cmc>
+					<type>Living</type>
+					<maintype>Living</maintype>
+					<pt>5/3</pt>
+				</prop>
+		</card>
+	</cards>
+</cockatrice_carddatabase>
