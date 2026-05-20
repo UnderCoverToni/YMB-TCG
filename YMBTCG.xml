@@ -86,7 +86,7 @@ When cast, you may pay 4 more to destroy all Livings or Objects.</text>
 			<tablerow>3</tablerow>
 			<text>Pull any number of cards out of your Discard back into your hand. All opponents draw 1 card.</text>
 				<prop>
-					<cmc>2</cmc>
+					<cmc>X</cmc>
 					<type>Spell</type>
 					<maintype>Spell</maintype>
 				</prop>
@@ -158,8 +158,8 @@ Thunderclap - X, T: Deal X damage to all Living. If you or opponent have no livi
 			<text>T,: Any attack made at target creature can be redirected to any Living. Sacrifice Tao Ming's Guidance.</text>
 				<prop>
 					<cmc>4</cmc>
-					<type>Object</type>
-					<maintype>Object</maintype>
+					<type>Spell</type>
+					<maintype>Spell</maintype>
 				</prop>
 		</card>
 		<card>
