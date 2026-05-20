@@ -389,11 +389,11 @@ When Vigorous, Cape of Hope enters the battlefield, destroy two Objects.</text>
 		<card>
 			<name>GRUNGLE</name>
 			<set rarity="Rare" picURL="https://i.imgur.com/jtIVHWa.png">YMBTCG</set>
-			<tablerow>12</tablerow>
+			<tablerow>2</tablerow>
 			<text>When GRUNGLE enters the battlefield, choose between Object or Living to your opponents. Put cards from the top of your library into your Discard until you find an Object or Living (decided by your pick). Deal damage to a player equal to the amount of cards sent to your Discard this way.
 T,: Deal 5 damage.</text>
 				<prop>
-					<cmc>8</cmc>
+					<cmc>12</cmc>
 					<type>Living</type>
 					<maintype>Living</maintype>
 					<pt>5/5</pt>
